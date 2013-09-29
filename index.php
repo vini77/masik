@@ -14,4 +14,4 @@ $subject->notify(true); // Send notification to the Observer
 
 echo $observer->state;
 
-echo "Teszt";
+echo "HU";
