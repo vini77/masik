@@ -14,4 +14,8 @@ $subject->notify(true); // Send notification to the Observer
 
 echo $observer->state;
 
+<<<<<<< HEAD
 echo "Master";
+=======
+echo "Valami";
+>>>>>>> ervin
