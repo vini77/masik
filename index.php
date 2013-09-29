@@ -13,6 +13,3 @@ $subject->attach($observer); // Register Observer to the Subject
 $subject->notify(true); // Send notification to the Observer
 
 echo $observer->state;
-
-echo "HU";
-echo "HHH";
