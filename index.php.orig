@@ -12,4 +12,14 @@ $observer = new Observer(); // Create an Observer
 $subject->attach($observer); // Register Observer to the Subject
 $subject->notify(true); // Send notification to the Observer
 
+<<<<<<< HEAD
 echo $observer->state;
+
+<<<<<<< HEAD
+echo "Master";
+=======
+echo "Valami";
+>>>>>>> ervin
+=======
+echo $observer->state;
+>>>>>>> ervin
